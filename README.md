@@ -1,6 +1,10 @@
 # InterviewIQ.AI
 
+> **Status: 🚧 Under Development**
+
 AI-powered mock interview platform to help you prepare for your dream job with smart follow-ups, adaptive difficulty, and real-time performance evaluation.
+
+This project is currently in active development. Features and functionality are being added and improved regularly.
 
 ## Features
 
